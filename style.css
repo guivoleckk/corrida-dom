@@ -1,0 +1,35 @@
+body {
+    background-image: url(./images/fundo-de-nuvem-vetor-de-estilo-de-corte-de-papel-pastel_53876-135914.webp);
+}
+
+#botao {
+    display: block;
+    padding: 30px;
+    border-radius: 30px;
+    font-size: large;
+    margin: auto;
+}
+
+#mestre {
+    position: relative;
+    top: 300px;
+}
+
+#guilherme {
+    background-image: url(./images/guilherme.jpg);
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    border-radius: 150px;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
+
+#larissa {
+    background-image: url(./images/larissa.jpg);
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    border-radius: 150px;
+    border: 5px solid pink;
+}
